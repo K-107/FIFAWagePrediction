@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/79948405/120973351-c72dcc80-c7a9-11eb-9313-7675abde8696.png)
 
 
-## 19년도 테스트 데이터 예측 결과
+## 19년도 테스트 데이터 예측 결과 그래프
 ![image](https://user-images.githubusercontent.com/79948405/120973181-93eb3d80-c7a9-11eb-8718-c7d109891637.png)
 
 
