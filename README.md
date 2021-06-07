@@ -1,5 +1,5 @@
 # SOFIFA 빅데이터 분석을 통한 축구 선수 WAGE 예측 프로그램 개발 및 활용 방안
-![image](https://user-images.githubusercontent.com/79948405/120972137-64880100-c7a8-11eb-9d44-d7b11f60cc24.png)
+![image](https://user-images.githubusercontent.com/79948405/120973351-c72dcc80-c7a9-11eb-9313-7675abde8696.png)
 
 
 ## 19년도 테스트 데이터 예측 결과
